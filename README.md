@@ -1,4 +1,4 @@
-**Live Demo:** [Click here](https://onlinefooddeliverywebsitee.netlify.app/)
+**Live Demo:** [Click here](https://deliverfoodweb.netlify.app/)
 
 
 # Food_ordering_web
